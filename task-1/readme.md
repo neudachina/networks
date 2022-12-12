@@ -1,7 +1,7 @@
 ## отчет
 была построена необходимая топология, указанная в задании 
 
-<img src="/pics/topology.jpg" alt="topology" width="500"/>
+<img src="/neudachina/networks/blob/main/task-1/pics/ping%20client-1.jpg" alt="topology" width="500"/>
 
 все startup-конфиги можно посмотреть в соответствующей папке confings. 
 сеть будет работать даже при потере одно из соединений между switch'ами за счет того, что spanning-tree 
