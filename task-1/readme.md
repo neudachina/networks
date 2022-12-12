@@ -16,9 +16,7 @@
 доказательство корректности spanning-tree на разных коммутаторах 
 (слева направо и сверху вниз switch-{0, 1, 2} в порядке возрастания)
 
-<img src="https://github.com/neudachina/networks/blob/main/task-1/pics/spanning-tree switch-0.jpg" alt="ping client-1" width="500"/> 
-<img src="https://github.com/neudachina/networks/blob/main/task-1/pics/spanning-tree switch-1.jpg" alt="ping client-1" width="500"/> 
-<img src="https://github.com/neudachina/networks/blob/main/task-1/pics/spanning-tree switch-2.jpg" alt="ping client-1" width="500"/>
+<img src="https://github.com/neudachina/networks/blob/main/task-1/pics/spanning-tree switch-0.jpg" alt="ping client-1" width="500"/> <img src="https://github.com/neudachina/networks/blob/main/task-1/pics/spanning-tree switch-1.jpg" alt="ping client-1" width="500"/> <img src="https://github.com/neudachina/networks/blob/main/task-1/pics/spanning-tree switch-2.jpg" alt="ping client-1" width="500"/>
 
 
 итого: я добилась выполнения всех пунктов и подпунктов 
