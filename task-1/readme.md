@@ -1,7 +1,7 @@
 ## отчет
 была построена необходимая топология, указанная в задании 
 
-<img src="https://github.com/neudachina/networks/blob/main/task-1/pics/ping%20client-1.jpg" alt="topology" width="500"/>
+<img src="https://github.com/neudachina/networks/blob/main/task-1/pics/topology.jpg" alt="topology" width="500"/>
 
 все startup-конфиги можно посмотреть в соответствующей папке confings. 
 сеть будет работать даже при потере одно из соединений между switch'ами за счет того, что spanning-tree 
@@ -11,12 +11,14 @@
 
 доказательство корректности пингов на обоих клиентах 
 
-<img src="/pics/ping client-1.jpg" alt="ping client-1" width="500"/> <img src="/pics/ping client-2.jpg" alt="ping client-2" width="500"/>
+<img src="https://github.com/neudachina/networks/blob/main/task-1/pics/ping client-1.jpg" alt="ping client-1" width="500"/> <img src="https://github.com/neudachina/networks/blob/main/task-1/pics/ping client-2.jpg" alt="ping client-1" width="500"/>
 
 доказательство корректности spanning-tree на разных коммутаторах 
 (слева направо и сверху вниз switch-{0, 1, 2} в порядке возрастания)
 
-<img src="/pics/spanning-tree switch-0.jpg" alt="switch-0" width="500"/> <img src="/pics/spanning-tree switch-1.jpg" alt="switch-1" width="500"/> <img src="/pics/spanning-tree switch-2.jpg" alt="switch-2" width="500"/> 
+<img src="https://github.com/neudachina/networks/blob/main/task-1/pics/spanning-tree switch-0.jpg" alt="ping client-1" width="500"/> 
+<img src="https://github.com/neudachina/networks/blob/main/task-1/pics/spanning-tree switch-1.jpg" alt="ping client-1" width="500"/> 
+<img src="https://github.com/neudachina/networks/blob/main/task-1/pics/spanning-tree switch-2.jpg" alt="ping client-1" width="500"/>
 
 
 итого: я добилась выполнения всех пунктов и подпунктов 
