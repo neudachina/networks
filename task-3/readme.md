@@ -175,10 +175,9 @@ no shutdown
 ip nat outside
 exit
 
-ip nat pool POOL 10.0.0.1 10.0.0.255 netmask 255.255.255.0
 access-list 100 permit ip 10.0.10.0 0.0.0.255 any
 access-list 100 permit ip 10.0.20.0 0.0.0.255 any
-ip nat inside source list 100 pool POOL
+ip nat inside source list 100 int e0/1 overload
 
 exit
 exit
